@@ -10,6 +10,10 @@ A collection of some awesome infographics I have come across.
 * [16 Genius Minds in Datascience](http://www.analyticsvidhya.com/wp-content/uploads/2016/05/genius_mind_datascience.jpg)
 * [How to Retain Women Technologists](http://anitaborg.org/insights-tools/infographics/how-to-retain-women-technologists/)
 * [9 Infographics Worth More Than an MBA](https://www.inc.com/geoffrey-james/9-cool-infographics-worth-more-than-an-mba.html)
+* [Choosing R or Python for data analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
+* [Become a data scientist in 8 steps](https://www.datacamp.com/community/tutorials/how-to-become-a-data-scientist)
+* [What is the best statistical programming language](https://www.datacamp.com/community/tutorials/statistical-language-wars-the-infograph)
+* [The Data Science Industry: Who Does What](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
