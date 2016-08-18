@@ -15,6 +15,8 @@ A collection of some awesome infographics I have come across.
 * [What is the best statistical programming language](https://www.datacamp.com/community/tutorials/statistical-language-wars-the-infograph)
 * [The Data Science Industry: Who Does What](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
 * [Time for happiness backed by Science](http://www.huffingtonpost.com.au/entry/boost-happiness_n_4532848)
+* [The seven minute workout](http://static1.techinsider.io/image/578fdfe488e4a7b32e8b971b-/ti_graphics_7-minute-workout.gif)
+* [10 years of git](https://www.atlassian.com/git/articles/10-years-of-git/)
 
 
 ## Top Best
