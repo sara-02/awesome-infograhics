@@ -14,6 +14,12 @@ A collection of some awesome infographics I have come across.
 * [Become a data scientist in 8 steps](https://www.datacamp.com/community/tutorials/how-to-become-a-data-scientist)
 * [What is the best statistical programming language](https://www.datacamp.com/community/tutorials/statistical-language-wars-the-infograph)
 * [The Data Science Industry: Who Does What](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
+* [Time for happiness backed by Science](http://www.huffingtonpost.com.au/entry/boost-happiness_n_4532848)
+
+
+## Top Best
+* [100 Best](http://www.creativebloq.com/graphic-design-tips/information-graphics-1232836)
+* [100 Best](http://www.siegemedia.com/creation/best-infographics)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
