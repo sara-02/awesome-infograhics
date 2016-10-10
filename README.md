@@ -17,6 +17,7 @@ A collection of some awesome infographics I have come across.
 * [Time for happiness backed by Science](http://www.huffingtonpost.com.au/entry/boost-happiness_n_4532848)
 * [The seven minute workout](http://static1.techinsider.io/image/578fdfe488e4a7b32e8b971b-/ti_graphics_7-minute-workout.gif)
 * [10 years of git](https://www.atlassian.com/git/articles/10-years-of-git/)
+* [Data Science Career Paths](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
 
 
 ## Top Best
