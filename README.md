@@ -8,7 +8,6 @@ A collection of some awesome infographics I have come across.
 * [Should You Learn Python, C, or Ruby to Be a Top Coder?](https://cdn-images-1.medium.com/max/800/1*quav9467xRY3zFHQ9BhVDA.jpeg)
 * [Why are Infographics are everywhere so successful](http://neomam.com/interactive/13reasons/)
 * [16 Genius Minds in Datascience](http://www.analyticsvidhya.com/wp-content/uploads/2016/05/genius_mind_datascience.jpg)
-* [How to Retain Women Technologists](http://anitaborg.org/insights-tools/infographics/how-to-retain-women-technologists/)
 * [9 Infographics Worth More Than an MBA](https://www.inc.com/geoffrey-james/9-cool-infographics-worth-more-than-an-mba.html)
 * [Choosing R or Python for data analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
 * [Become a data scientist in 8 steps](https://www.datacamp.com/community/tutorials/how-to-become-a-data-scientist)
@@ -18,6 +17,18 @@ A collection of some awesome infographics I have come across.
 * [The seven minute workout](http://static1.techinsider.io/image/578fdfe488e4a7b32e8b971b-/ti_graphics_7-minute-workout.gif)
 * [10 years of git](https://www.atlassian.com/git/articles/10-years-of-git/)
 * [Data Science Career Paths](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
+* [Empathy 101](http://my.happify.com/hd/empathy-can-change-your-life-infographic/)
+* [Love and Kindness](http://my.happify.com/hd/loving-kindness-infographic/)
+* [Optimisim 101](http://my.happify.com/hd/optimism-infographic/)
+* [How to Recruit Women Technologists](http://anitaborg.org/insights-tools/infographics/recruit-women-technologists/)
+* [How to Advance Women Technologists](http://anitaborg.org/insights-tools/infographics/advance-women-technologists/)
+* [How to Retain Women Technologists](http://anitaborg.org/insights-tools/infographics/how-to-retain-women-technologists/)
+* [Why Women Leave Technology](http://anitaborg.org/insights-tools/infographics/why-women-leave/)
+* [Famous Women In Computing](http://anitaborg.org/insights-tools/infographics/famous-women-in-computing/)
+* [Quick Guide to learn Python for Data Science](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
+* [Guide to Data Science Interviews](http://blog.yhat.com/posts/data-science-interview-infographic.html)
+* [Social Media Marketing](http://www.adweek.com/socialtimes/12-step-guide-for-social-media-marketing-success-infographic/645726)
+* [Aim for Work that Works for You!](https://www.linkedin.com/pulse/infographic-aim-work-works-you-david-peck)
 
 
 ## Top Best
