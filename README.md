@@ -10,7 +10,7 @@ A collection of some awesome infographics I have come across.
 * [16 Genius Minds in Datascience](http://www.analyticsvidhya.com/wp-content/uploads/2016/05/genius_mind_datascience.jpg)
 * [9 Infographics Worth More Than an MBA](https://www.inc.com/geoffrey-james/9-cool-infographics-worth-more-than-an-mba.html)
 * [Choosing R or Python for data analysis?](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis)
-* [Become a data scientist in 8 steps](https://www.datacamp.com/community/tutorials/how-to-become-a-data-scientist)
+* [Become a data scientist in 8 steps](http://insidebigdata.com/2016/10/23/learndatascience_eight_easy_steps/)
 * [What is the best statistical programming language](https://www.datacamp.com/community/tutorials/statistical-language-wars-the-infograph)
 * [The Data Science Industry: Who Does What](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
 * [Time for happiness backed by Science](http://www.huffingtonpost.com.au/entry/boost-happiness_n_4532848)
@@ -29,7 +29,9 @@ A collection of some awesome infographics I have come across.
 * [Guide to Data Science Interviews](http://blog.yhat.com/posts/data-science-interview-infographic.html)
 * [Social Media Marketing](http://www.adweek.com/socialtimes/12-step-guide-for-social-media-marketing-success-infographic/645726)
 * [Aim for Work that Works for You!](https://www.linkedin.com/pulse/infographic-aim-work-works-you-david-peck)
-
+* [Tech Trends 2017](http://blogs-images.forbes.com/gartnergroup/files/2016/10/TopTenStrTechTrends2017_Infographic_R2-Forbes.jpg?width=960)
+* [Guide to Data Science Interviews](http://blog.yhat.com/posts/data-science-interview-infographic.html)
+* [An infographic timeline of timelines and infographics](http://visual.ly/infographic-timeline-timelines-and-infographics)
 
 ## Top Best
 * [100 Best](http://www.creativebloq.com/graphic-design-tips/information-graphics-1232836)
@@ -37,3 +39,4 @@ A collection of some awesome infographics I have come across.
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
+* [When to Use The Timeline Layout](https://piktochart.com/blog/layout-5-portraying-history-with-timelines/)
