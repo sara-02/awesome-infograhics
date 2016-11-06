@@ -32,6 +32,8 @@ A collection of some awesome infographics I have come across.
 * [Tech Trends 2017](http://blogs-images.forbes.com/gartnergroup/files/2016/10/TopTenStrTechTrends2017_Infographic_R2-Forbes.jpg?width=960)
 * [Guide to Data Science Interviews](http://blog.yhat.com/posts/data-science-interview-infographic.html)
 * [An infographic timeline of timelines and infographics](http://visual.ly/infographic-timeline-timelines-and-infographics)
+* [Productivity hacks by Larry Kim](https://d262ilb51hltx0.cloudfront.net/max/800/1*gUjLaVefTujdUfRgcPIfsg.jpeg)
+* [The Science of Happiness](http://my.happify.com/hd/science-of-happiness-infographic/)
 
 ## Top Best
 * [100 Best](http://www.creativebloq.com/graphic-design-tips/information-graphics-1232836)
