@@ -38,6 +38,7 @@ A collection of some awesome infographics I have come across.
 * [Tourist vs Traveller](http://9gag.com/gag/a1dKnQ2?ref=fbp)
 * [The Ultimate Homepage Planning Checklist](http://www.marketingprofs.com/chirp/2016/31013/the-ultimate-homepage-planning-checklist-infographic)
 * [Compete in Data Science Competitions](https://www.analyticsvidhya.com/blog/2015/07/infographic-guide-win-data-science-competitions/)
+* [Steps To Perform Text Data Cleaning in Python](https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/?utm_content=buffer4d1ad&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
