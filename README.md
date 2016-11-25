@@ -35,6 +35,9 @@ A collection of some awesome infographics I have come across.
 * [Productivity hacks by Larry Kim](https://d262ilb51hltx0.cloudfront.net/max/800/1*gUjLaVefTujdUfRgcPIfsg.jpeg)
 * [The Science of Happiness](http://my.happify.com/hd/science-of-happiness-infographic/)
 * [Success Factors Impacting your career](https://medium.com/the-mission/the-success-factors-are-most-impactful-in-your-life-and-career-808b8b7cd813#.dsejgg8u5)
+* [Tourist vs Traveller](http://9gag.com/gag/a1dKnQ2?ref=fbp)
+* [The Ultimate Homepage Planning Checklist](http://www.marketingprofs.com/chirp/2016/31013/the-ultimate-homepage-planning-checklist-infographic)
+* [Compete in Data Science Competitions](https://www.analyticsvidhya.com/blog/2015/07/infographic-guide-win-data-science-competitions/)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
