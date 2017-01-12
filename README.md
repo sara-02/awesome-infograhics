@@ -42,6 +42,15 @@ A collection of some awesome infographics I have come across.
 * [Being more cheerful at work](http://www.happify.com/hd/happiness-at-work-infographic/)
 * [Data Visualization Tools](https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Data-Visualization.jpg)
 * [CheetSheet-Data Visualization in R](https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Comprehensive-Guide-to-Data-Visualization-in-R-FINAL-1.jpg)
+* [Common Python Errors](http://i.imgur.com/WRuJV6r.png)
+* [Infographic: Women in Tech 2016](https://techdayhq.com/community/articles/women-in-tech-inforgraphic-2016)
+* [Science of Giving](http://my.happify.com/hd/science-of-giving-infographic/)
+* [How to Make Yourself Work When You’re Not Feeling It](https://www.netcredit.com/blog/make-work-youre-not-feeling/)
+* [12 Ways to Turn Stress in to Productivity](https://www.netcredit.com/blog/12-ways-turn-stress-productivity/)
+* [How to Communicate Better at Work](https://www.netcredit.com/blog/communicate-better-work/)
+* [The Peak Time of Day for Everything You Do](https://www.netcredit.com/blog/peak-time-day-everything/)
+* [Monthly Challenge: How to Make a Career Change](https://www.netcredit.com/blog/monthly-challenge-make-career-change/)
+* [All The Productivity Tips You Need In 9 Infographics ](All The Productivity Tips You Need In 9 Infographics)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
