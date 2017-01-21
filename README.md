@@ -51,6 +51,8 @@ A collection of some awesome infographics I have come across.
 * [The Peak Time of Day for Everything You Do](https://www.netcredit.com/blog/peak-time-day-everything/)
 * [Monthly Challenge: How to Make a Career Change](https://www.netcredit.com/blog/monthly-challenge-make-career-change/)
 * [All The Productivity Tips You Need In 9 Infographics ](All The Productivity Tips You Need In 9 Infographics)
+* [WiDS:Women In Stem](https://scontent.fmaa1-2.fna.fbcdn.net/v/t31.0-0/p480x480/16112798_253227315082725_1830252651834567162_o.png?oh=37f1cf42763c6d7072537519676d1ce8&oe=59160475)
+* [Hobbies make us Happy](http://my.happify.com/hd/how-our-hobbies-make-us-happier/)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
