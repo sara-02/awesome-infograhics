@@ -53,6 +53,7 @@ A collection of some awesome infographics I have come across.
 * [All The Productivity Tips You Need In 9 Infographics ](All The Productivity Tips You Need In 9 Infographics)
 * [WiDS:Women In Stem](https://scontent.fmaa1-2.fna.fbcdn.net/v/t31.0-0/p480x480/16112798_253227315082725_1830252651834567162_o.png?oh=37f1cf42763c6d7072537519676d1ce8&oe=59160475)
 * [Hobbies make us Happy](http://my.happify.com/hd/how-our-hobbies-make-us-happier/)
+* [20 Rules of Data Science](https://www.analyticsvidhya.com/wp-content/uploads/2015/11/q2.jpg)
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
