@@ -54,6 +54,9 @@ A collection of some awesome infographics I have come across.
 * [WiDS:Women In Stem](https://scontent.fmaa1-2.fna.fbcdn.net/v/t31.0-0/p480x480/16112798_253227315082725_1830252651834567162_o.png?oh=37f1cf42763c6d7072537519676d1ce8&oe=59160475)
 * [Hobbies make us Happy](http://my.happify.com/hd/how-our-hobbies-make-us-happier/)
 * [20 Rules of Data Science](https://www.analyticsvidhya.com/wp-content/uploads/2015/11/q2.jpg)
+* [7 Body Language Interview Mistakes](https://www.onstride.co.uk/blog/7-body-language-interview-mistakes-avoid/)
+* [10 Popular TV Shows on Data Science and Artificial Intelligence](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence)
+
 
 ## How-To
 * [7 Must-Use Tools for Building an Infographic ](https://www.entrepreneur.com/article/253092)
