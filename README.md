@@ -56,6 +56,9 @@ A collection of some awesome infographics I have come across.
 * [20 Rules of Data Science](https://www.analyticsvidhya.com/wp-content/uploads/2015/11/q2.jpg)
 * [7 Body Language Interview Mistakes](https://www.onstride.co.uk/blog/7-body-language-interview-mistakes-avoid/)
 * [10 Popular TV Shows on Data Science and Artificial Intelligence](https://www.analyticsvidhya.com/blog/2016/01/10-popular-tv-shows-data-science-artificial-intelligence)
+* [The Girls Effect](http://www.dailyinfographic.com/wp-content/uploads/2015/04/ge_infographic-the-girl-effect-factsheet_download.jpg)
+* [Build Your own Technology Stack](http://www.dailyinfographic.com/wp-content/uploads/2015/12/Technology-Stack-Infographic.png)
+* [Mondys the islamic Way](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/16195684_1641371995878803_2717805370305280347_n.jpg?oh=337f65a0e86a22d77d29b208c00f69e8&oe=5906B911)
 
 
 ## How-To
