@@ -50,7 +50,6 @@ A collection of some awesome infographics I have come across.
 * [How to Communicate Better at Work](https://www.netcredit.com/blog/communicate-better-work/)
 * [The Peak Time of Day for Everything You Do](https://www.netcredit.com/blog/peak-time-day-everything/)
 * [Monthly Challenge: How to Make a Career Change](https://www.netcredit.com/blog/monthly-challenge-make-career-change/)
-* [All The Productivity Tips You Need In 9 Infographics ](All The Productivity Tips You Need In 9 Infographics)
 * [WiDS:Women In Stem](https://scontent.fmaa1-2.fna.fbcdn.net/v/t31.0-0/p480x480/16112798_253227315082725_1830252651834567162_o.png?oh=37f1cf42763c6d7072537519676d1ce8&oe=59160475)
 * [Hobbies make us Happy](http://my.happify.com/hd/how-our-hobbies-make-us-happier/)
 * [20 Rules of Data Science](https://www.analyticsvidhya.com/wp-content/uploads/2015/11/q2.jpg)
@@ -59,6 +58,8 @@ A collection of some awesome infographics I have come across.
 * [The Girls Effect](http://www.dailyinfographic.com/wp-content/uploads/2015/04/ge_infographic-the-girl-effect-factsheet_download.jpg)
 * [Build Your own Technology Stack](http://www.dailyinfographic.com/wp-content/uploads/2015/12/Technology-Stack-Infographic.png)
 * [Mondys the islamic Way](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/16195684_1641371995878803_2717805370305280347_n.jpg?oh=337f65a0e86a22d77d29b208c00f69e8&oe=5906B911)
+* [The Seven Circles of Developer Hell](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/)
+* [Beginners guide to ML](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
 
 
 ## How-To
