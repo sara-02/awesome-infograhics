@@ -1,7 +1,7 @@
 # awesome-infograhics
 A collection of some awesome infographics I have come across. 
 
-##List
+## List
 * [Ultimate-plan-data-scientist-2016](http://i1.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/01/final-infographics.jpg)
 * [44 easy ways to be more productive throughout the day](http://www.businessinsider.in/44-easy-ways-to-be-more-productive-throughout-the-day/articleshow/52000493.cms#)
 * [5 Skills You Need to Become a Machine Learning Engineer](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/ML-Graph.png)
@@ -60,6 +60,7 @@ A collection of some awesome infographics I have come across.
 * [Mondys the islamic Way](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/16195684_1641371995878803_2717805370305280347_n.jpg?oh=337f65a0e86a22d77d29b208c00f69e8&oe=5906B911)
 * [The Seven Circles of Developer Hell](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/)
 * [Beginners guide to ML](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
+* [Stop Worrying](http://www.happify.com/hd/how-to-stop-worrying-infographic/)
 
 
 ## How-To
