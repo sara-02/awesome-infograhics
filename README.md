@@ -61,6 +61,7 @@ A collection of some awesome infographics I have come across.
 * [The Seven Circles of Developer Hell](https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/)
 * [Beginners guide to ML](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
 * [Stop Worrying](http://www.happify.com/hd/how-to-stop-worrying-infographic/)
+* [Keep -ve Thoughts Away](https://my.happify.com/hd/how-to-stop-negative-thoughts-from-getting-you-down-infographic/)
 
 
 ## How-To
