@@ -63,6 +63,7 @@ A collection of some awesome infographics I have come across.
 * [Stop Worrying](http://www.happify.com/hd/how-to-stop-worrying-infographic/)
 * [Keep -ve Thoughts Away](https://my.happify.com/hd/how-to-stop-negative-thoughts-from-getting-you-down-infographic/)
 * [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/)
+* [How Successful People Start the day](http://www.success.com/article/how-16-successful-entrepreneurs-start-their-days)
 
 
 ## How-To
