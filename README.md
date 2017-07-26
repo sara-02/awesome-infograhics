@@ -65,6 +65,8 @@ A collection of some awesome infographics I have come across.
 * [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/)
 * [How Successful People Start the day](http://www.success.com/article/how-16-successful-entrepreneurs-start-their-days)
 * [Inspiring Women in Tech](https://blog.appdynamics.com/culture/inspiring-women-making-their-mark-on-the-tech-world/)
+* [Bias vs Variance Tradeoffs](https://elitedatascience.com/bias-variance-tradeoff)
+* [Myths about working in Tech](https://www.themuse.com/advice/20-myths-you-probably-still-believe-about-working-in-tech)
 
 
 ## How-To
