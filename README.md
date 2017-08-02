@@ -68,6 +68,7 @@ A collection of some awesome infographics I have come across.
 * [Bias vs Variance Tradeoffs](https://elitedatascience.com/bias-variance-tradeoff)
 * [Myths about working in Tech](https://www.themuse.com/advice/20-myths-you-probably-still-believe-about-working-in-tech)
 * [41 Interesting Facts about Tesla Motors](http://www.visualcapitalist.com/41-interesting-facts-about-tesla-motors/)
+* [How to Win Friends & Influence People](https://medium.com/the-mission/infographic-how-to-win-friends-influence-people-998ae2ecddc5)
 
 
 ## How-To
