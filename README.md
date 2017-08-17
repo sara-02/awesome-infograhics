@@ -62,6 +62,7 @@ A collection of some awesome infographics I have come across.
 * [The seven minute workout](http://static1.techinsider.io/image/578fdfe488e4a7b32e8b971b-/ti_graphics_7-minute-workout.gif)
 * [Time for happiness backed by Science](http://www.huffingtonpost.com.au/entry/boost-happiness_n_4532848)
 * [Tourist vs Traveller](http://9gag.com/gag/a1dKnQ2?ref=fbp)
+* [Two Sides- A review of HIV/AIDS](https://s3.amazonaws.com/one-org/us/wp-content/uploads/2017/08/03130103/infographic_final.jpg)
 * [Twelve Ways to Turn Stress in to Productivity](https://www.netcredit.com/blog/12-ways-turn-stress-productivity/)
 * [Twenty Rules of Data Science](https://www.analyticsvidhya.com/wp-content/uploads/2015/11/q2.jpg)
 * [Ultimate-plan-data-scientist-2016](http://i1.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/01/final-infographics.jpg)
