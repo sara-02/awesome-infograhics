@@ -43,6 +43,7 @@ A collection of some awesome infographics I have come across.
 * [Infographic: Women in Tech 2016](https://techdayhq.com/community/articles/women-in-tech-inforgraphic-2016)
 * [Inspiring Women in Tech](https://blog.appdynamics.com/culture/inspiring-women-making-their-mark-on-the-tech-world/)
 * [The Girls Effect](http://www.dailyinfographic.com/wp-content/uploads/2015/04/ge_infographic-the-girl-effect-factsheet_download.jpg) 
+* [Thrity-Three Facts About Women in Technology](http://www.visualcapitalist.com/33-facts-about-women-in-technology/)
 * [Why Women Leave Technology](http://anitaborg.org/insights-tools/infographics/why-women-leave/)
 * [WiDS:Women In Stem](https://scontent.fmaa1-2.fna.fbcdn.net/v/t31.0-0/p480x480/16112798_253227315082725_1830252651834567162_o.png?oh=37f1cf42763c6d7072537519676d1ce8&oe=59160475)
 
