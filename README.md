@@ -27,6 +27,7 @@ A collection of some awesome infographics I have come across.
 ### Tech in general
 * [Build Your own Technology Stack](http://www.dailyinfographic.com/wp-content/uploads/2015/12/Technology-Stack-Infographic.png)
 * [Forty one Interesting Facts about Tesla Motors](http://www.visualcapitalist.com/41-interesting-facts-about-tesla-motors/)
+* [How Will We Live on Mars](https://ideas.ted.com/infographic-how-well-live-on-mars/)
 * [Myths about working in Tech](https://www.themuse.com/advice/20-myths-you-probably-still-believe-about-working-in-tech)
 * [Seven Body Language Interview Mistakes](https://www.onstride.co.uk/blog/7-body-language-interview-mistakes-avoid/)
 * [Should You Learn Python, C, or Ruby to Be a Top Coder?](https://cdn-images-1.medium.com/max/800/1*quav9467xRY3zFHQ9BhVDA.jpeg)
